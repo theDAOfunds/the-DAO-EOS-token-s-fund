@@ -2,6 +2,7 @@
 as of now the https://newdex.io/market/ is the place we want to get our API data and use for purchasing the tokens in the fund.
 
 Tokens to be included:
+PEOS
 TRYBE
 EDNA
 RIDL
